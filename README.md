@@ -1,6 +1,10 @@
 # 👋 Hi, I’m Arpidek
 ![Profile Views](https://komarev.com/ghpvc/?username=arpidek)
 
+<p align="center">
+  <img width="250px" height="200px" src="./img/0101.gif" />
+</p>
+
 ## 👨‍💻 Languages
 <div>
   <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
