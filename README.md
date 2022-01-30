@@ -27,3 +27,5 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Arpidek&show_icons=true&theme=dark" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpidek&theme=dark" />
 </div>
+
+![Snake animation](https://github.com/Arpidek/Arpidek/blob/output/github-contribution-grid-snake.svg)
