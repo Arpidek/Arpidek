@@ -46,4 +46,10 @@
   </div>
 </details>
 
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2339EB00&center=true&lines=I'm+Arpidek;S.+Developer+%26+R.+Engineer;%2B10+years+of+experience;I+love+Programming+%26+Hacking)](https://git.io/typing-svg)    
+  
+</div>
+
 ![Snake animation](https://github.com/Arpidek/Arpidek/blob/output/github-contribution-grid-snake.svg)
