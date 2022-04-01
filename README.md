@@ -129,6 +129,12 @@
       <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" />
     </a>
   </div>
+  <h3>Testing</h3>
+  <div>
+    <a href="#">
+      <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" "selenium" />
+    </a>
+  </div>
 </details>
 
 <details align="center">
