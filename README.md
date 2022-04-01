@@ -81,6 +81,14 @@
       <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" alt="haskell" />
     </a>
   </div>
+  <h3>🎶 Music</h3>
+  <div>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="spotify" />
+      <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="yt-music" />
+      <img src="https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="soundcloud" />
+    </a>
+  </div>
 </details>
 
 <details align="center">
