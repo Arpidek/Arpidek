@@ -144,6 +144,13 @@
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" />
     </a>
   </div>
+  <h3>Work/Jobs</h3>
+  <div>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" alt="freelancer" />
+      <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank" />
+    </a>
+  </div>
 </details>
 
 <details align="center">
